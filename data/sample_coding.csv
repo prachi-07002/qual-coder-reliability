@@ -1,0 +1,26 @@
+excerpt_id,excerpt,coder_a,coder_b
+E01,"The chatbot drafted our project timeline in seconds, so we could spend the meeting on risks instead of formatting.",genai_helpful,genai_helpful
+E02,"I asked the AI to summarise the stakeholder emails and it caught a deadline I had missed.",genai_helpful,genai_helpful
+E03,"Using AI to turn our messy brainstorm notes into a work-breakdown structure saved us an hour.",genai_helpful,genai_helpful
+E04,"The AI tutor explained the calculus example step by step until I could do the next one alone.",genai_helpful,genai_helpful
+E05,"I worry the AI will write the whole project plan and I will not learn how to plan myself.",genai_helpful,genai_concern
+E06,"In the PMaster game, the AI hint suggested a trade-off I had not considered, and our team score improved.",genai_helpful,genai_helpful
+E07,"I am concerned the AI answer sounded confident but cited a formula that does not exist.",genai_concern,genai_concern
+E08,"If everyone uses the same AI tool, will our project reports all start to look identical?",genai_concern,genai_concern
+E09,"I do not trust the AI with our team's budget numbers, so I double-check every figure by hand.",genai_concern,genai_concern
+E10,"The AI explanation used words I did not know, and I could not tell which part was the actual maths.",genai_concern,confusion
+E11,"Who owns the work if the AI wrote most of the draft? That feels like a real academic-integrity question.",genai_concern,genai_concern
+E12,"The calculus case study on transit fares made me think about who can actually afford to get to campus.",equity,equity
+E13,"Our group noticed the dataset only covered wealthy neighbourhoods, so our model would ignore everyone else.",equity,equity
+E14,"The PMaster game was fun, but the starting resources felt unfair to the team that went second.",equity,engagement
+E15,"Talking about who benefits from a new bus route changed how I read the numbers in class.",equity,equity
+E16,"I liked that the assignment asked whose voice was missing from the data, not just what the average was.",equity,equity
+E17,"I stayed after class to keep playing the PMaster game because I wanted to beat our last score.",engagement,engagement
+E18,"Working in a team on the project simulation kept me focused in a way lectures never do.",engagement,engagement
+E19,"I was not sure what the game wanted me to do next, so I just clicked around until something happened.",engagement,confusion
+E20,"Presenting our project plan to another team made me care about getting the details right.",engagement,engagement
+E21,"The leaderboard in the game made our whole group argue, in a good way, about the best strategy.",engagement,engagement
+E22,"I kept mixing up the derivative rules and could not tell when to use the chain rule.",confusion,confusion
+E23,"The instructions for the risk register were unclear, so our team filled it in three different ways.",confusion,confusion
+E24,"I did not understand the scoring in the PMaster game, but I still enjoyed trying different moves.",confusion,engagement
+E25,"I re-read the worked example three times and still do not see where the minus sign comes from.",confusion,confusion
